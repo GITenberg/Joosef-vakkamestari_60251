@@ -1,6 +1,9 @@
 _repo: Joosef-vakkamestari_60251
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Beim Weiden-Joseph. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2491
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60251#Joosef-vakkamestari
 gutenberg_issued: '2019-09-07'
 gutenberg_type: Text
 identifiers:
